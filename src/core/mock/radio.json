@@ -1,0 +1,71 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "id": "1",
+            "name": "International",
+            "type": "radio",
+            "premium": true,
+            "favorite": true,
+            "radioCover": "/images/cover/large/1.jpg",
+            "url": "http://mediaserv30.live-streams.nl:8086/live"
+        },
+        {
+            "id": "2",
+            "name": "Network",
+            "type": "radio",
+            "favorite": true,
+            "radioCover": "/images/cover/large/2.jpg",
+            "url": "http://mediaserv33.live-streams.nl:8034/live"
+        },
+        {
+            "id": "3",
+            "name": "Alpha Gamma",
+            "type": "radio",
+            "premium": true,
+            "radioCover": "/images/cover/large/3.jpg",
+            "url": "http://mediaserv38.live-streams.nl:8006/live"
+        },
+        {
+            "id": "4",
+            "name": "Leanne Hutton",
+            "type": "radio",
+            "premium": true,
+            "favorite": true,
+            "radioCover": "/images/cover/large/4.jpg",
+            "url": "http://mediaserv33.live-streams.nl:8036/live"
+        },
+        {
+            "id": "5",
+            "name": "K S N F",
+            "type": "radio",
+            "premium": true,
+            "radioCover": "/images/cover/large/5.jpg",
+            "url": "http://mediaserv30.live-streams.nl:8000/live"
+        },
+        {
+            "id": "6",
+            "name": "Clay Gandy",
+            "type": "radio",
+            "favorite": true,
+            "radioCover": "/images/cover/large/6.jpg",
+            "url": "http://mediaserv30.live-streams.nl:8088/live"
+        },
+        {
+            "id": "7",
+            "name": "Get Reehl",
+            "type": "radio",
+            "favorite": true,
+            "radioCover": "/images/cover/large/7.jpg",
+            "url": "http://mediaserv38.live-streams.nl:8027/live"
+        },
+        {
+            "id": "8",
+            "name": "Morning one",
+            "type": "radio",
+            "premium": true,
+            "radioCover": "/images/cover/large/8.jpg",
+            "url": "http://mediaserv21.live-streams.nl:8000/live"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "code": 200,
+    "data": [
+        {
+            "id": "1",
+            "name": "Ads <span class='text-primary'>free</span>",
+            "icon": "ri-music-2-line",
+            "price": 10.99,
+            "subscribed": false,
+            "features": [
+                {
+                    "id": "1",
+                    "name": "Access all free songs and app features"
+                },
+                {
+                    "id": "2",
+                    "name": "No Ads between songs"
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "Premium",
+            "icon": "ri-vip-crown-line",
+            "price": 99.99,
+            "subscribed": false,
+            "features": [
+                {
+                    "id": "1",
+                    "name": "Access all free songs and app features"
+                },
+                {
+                    "id": "2",
+                    "name": "No Ads between songs"
+                },
+                {
+                    "id": "3",
+                    "name": "Create playlist & access analytics"
+                },
+                {
+                    "id": "4",
+                    "name": "Listen paid song once & purchase"
+                },
+                {
+                    "id": "5",
+                    "name": "Download and listen offline"
+                }
+            ]
+        }
+    ]
+}
